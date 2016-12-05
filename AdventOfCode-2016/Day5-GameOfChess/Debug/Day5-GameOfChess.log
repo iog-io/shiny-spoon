@@ -1,7 +1,1 @@
-﻿  md5.cpp
-c:\users\zeno\downloads\shiny-spoon\adventofcode-2016\day5-gameofchess\md5.cpp(344): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
-  main.cpp
-  Generating Code...
-  Day5-GameOfChess.vcxproj -> C:\Users\zeno\Downloads\shiny-spoon\AdventOfCode-2016\Debug\Day5-GameOfChess.exe
-  Day5-GameOfChess.vcxproj -> C:\Users\zeno\Downloads\shiny-spoon\AdventOfCode-2016\Debug\Day5-GameOfChess.pdb (Full PDB)
+﻿
