@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\zeno\downloads\shiny-spoon\adventofcode-2016\day4-obscuredsecurity\main.cpp(40): warning C4267: 'argument': conversion from 'size_t' to 'char', possible loss of data
+  Day4-ObscuredSecurity.vcxproj -> C:\Users\zeno\Downloads\shiny-spoon\AdventOfCode-2016\Debug\Day4-ObscuredSecurity.exe
+  Day4-ObscuredSecurity.vcxproj -> C:\Users\zeno\Downloads\shiny-spoon\AdventOfCode-2016\Debug\Day4-ObscuredSecurity.pdb (Full PDB)
