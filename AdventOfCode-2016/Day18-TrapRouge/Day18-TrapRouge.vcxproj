@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{F60676CC-0DB8-45FE-BC1B-6351D869F18F}</ProjectGuid>
+    <ProjectGuid>{8D779F1A-DB41-4B4F-85E2-27389F35FF52}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Day5GameOfChess</RootNamespace>
+    <RootNamespace>Day18TrapRouge</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -142,11 +142,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\Commonwealth\md5.cpp" />
-    <ClCompile Include="main.cpp" />
+    <Text Include="input.txt" />
+    <Text Include="sample.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Commonwealth\md5.h" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

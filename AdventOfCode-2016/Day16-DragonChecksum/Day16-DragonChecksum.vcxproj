@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{F60676CC-0DB8-45FE-BC1B-6351D869F18F}</ProjectGuid>
+    <ProjectGuid>{FA119B47-2809-41DE-82A8-5FBF2FEACCD4}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Day5GameOfChess</RootNamespace>
+    <RootNamespace>Day16DragonChecksum</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -142,11 +142,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\Commonwealth\md5.cpp" />
     <ClCompile Include="main.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\Commonwealth\md5.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

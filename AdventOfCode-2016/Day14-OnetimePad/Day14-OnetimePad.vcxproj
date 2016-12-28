@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{F60676CC-0DB8-45FE-BC1B-6351D869F18F}</ProjectGuid>
+    <ProjectGuid>{D389F09B-027B-4015-85D6-BC00B992736D}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Day5GameOfChess</RootNamespace>
+    <RootNamespace>Day14OnetimePad</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -92,6 +92,8 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>
+      </AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">

@@ -1,8 +1,8 @@
 #include <string>
 #include <iostream>
 #include <sstream>
+#include "..\Commonwealth\md5.h"
 
-#include "md5.h"
 
 int main(int argc, char *argv[])
 {

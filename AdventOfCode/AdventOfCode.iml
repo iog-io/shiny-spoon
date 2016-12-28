@@ -9,20 +9,36 @@
       <sourceFolder url="file://$MODULE_DIR$/Day3-Shipping" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Day1-NotLisp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Day8-Matchsticks" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Day9-SingleNight" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Day10-LookNSay" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Day12-JSON" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Day14-ReindeerOlympics" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/Day7-BobbyTables" />
+      <sourceFolder url="file://$MODULE_DIR$/Day13-MazeOfCubicles" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day4-MD5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day11-Radioisotope" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day17-Vault" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day20-Firewall" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day19-ElephantJoseph" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day24-Spelunky" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="algs4" level="application" />
-    <orderEntry type="library" name="guava-19.0" level="application" />
     <orderEntry type="module-library">
       <library>
         <CLASSES>
           <root url="jar://$USER_HOME$/IdeaProjects/libs/tapestry-json-5.4.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="commons-codec-1.10" level="application" />
+    <orderEntry type="library" name="guava-20.0" level="application" />
+    <orderEntry type="library" name="trove4j-3.0.3" level="application" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/IdeaProjects/libs/jsr305-3.0.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
